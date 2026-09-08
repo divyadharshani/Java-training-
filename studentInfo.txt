@@ -3,7 +3,7 @@ public static void main(String[] args){
 String name="Arun";
 int age=20;
 double mark=87.5;
-char grade="A";
+char grade='A';
 Boolean passed=true;
 System.out.println(name);
 System.out.println(age);
