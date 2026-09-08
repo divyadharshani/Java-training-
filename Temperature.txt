@@ -1,0 +1,12 @@
+import java.util.scanner;
+public class temperature {
+public static void main(string[] args)
+{
+scanner sc=new scanner(system.in);
+System.out.print("Enter Celsius: ");
+double celsius= sc.nextDouble();
+double fahrenhit=(celsius*9/5)+32;
+System.out.println("Fahrenhit= "+Fahrenheit);
+sc.close();
+}
+}
