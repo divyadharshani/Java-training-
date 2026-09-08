@@ -1,6 +1,6 @@
-import java.util.scanner;
+import java.util.Scanner;
 public class temperature {
-public static void main(string[] args)
+public static void main(String[] args)
 {
 scanner sc=new scanner(system.in);
 System.out.print("Enter Celsius: ");
