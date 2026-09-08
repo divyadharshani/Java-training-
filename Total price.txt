@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class sample{
+public static void main(String[] args){
+scanner sc=new scanner(system.in);
+System.out.print(s: "Enter price detail: ");
+int price=sc.nextInt();
+System.out.print(s: "Enter quantity detail: ");
+int quantity=sc.nextInt();
+int total=price*quantity;
+System.out.println("Total price is: "+total);
+sc.close();
+}
+}
+
+
